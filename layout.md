@@ -2,7 +2,7 @@ abstract.tex
 address1Max_Planck_I.tex
 maketitle_noindent_b.tex
 noindent_SOC_compete.tex
-figures/Fig1/default_figure.png
+figures/Fig1/fig1.png
 As_a_model_system.tex
 figures/Fig2/default_figure.png
 figures/Fig3/default_figure.png
