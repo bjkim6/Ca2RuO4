@@ -5,7 +5,7 @@ noindent_SOC_compete.tex
 figures/Fig1/fig1.png
 As_a_model_system.tex
 figures/Fig2/fig2.png
-figures/Fig3/default_figure.png
+figures/Fig3/fig3_.png
 Figure_1_plots_the.tex
 To_reproduce_the_obs.tex
 An_alternative_route.tex
