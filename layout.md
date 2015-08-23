@@ -14,7 +14,7 @@ For_delta0_the_syste.tex
 In_the_ordered_phase.tex
 beginalign_H__sum_la.tex
 Our_twoparameter_mod.tex
-figures/Fig4/default_figure.png
+figures/Fig4/fig4.png
 Our_model_based_on.tex
 Why_has_strong_SOC.tex
 Conceptually_one_may.tex
