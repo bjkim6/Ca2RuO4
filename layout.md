@@ -4,9 +4,9 @@ noindent_SOC_compete.tex
 As_a_model_system.tex
 Figure_1_plots_the.tex
 figures/Fig1/fig1.png
+To_reproduce_the_obs.tex
 figures/Fig2/fig2.png
 figures/Fig3/fig3_.png
-To_reproduce_the_obs.tex
 An_alternative_route.tex
 Based_on_the_above.tex
 For_delta0_the_syste.tex
