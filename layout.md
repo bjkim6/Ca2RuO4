@@ -11,4 +11,3 @@ Comparison.tex
 figures/Fig4/fig4.png
 Our_model_based_on.tex
 Discussions.tex
-sectionReferences_be.tex
