@@ -1,6 +1,6 @@
 abstract.tex
 Intro.tex
-Spin-wave spectra reveals XY-type magnetism.tex
+Spin-wave.tex
 figures/Fig1/fig1.png
 Theoretical considerations.tex
 figures/Fig2/fig2.png
