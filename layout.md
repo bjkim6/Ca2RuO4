@@ -5,8 +5,8 @@ Figure_1_plots_the.tex
 figures/Fig1/fig1.png
 To_reproduce_the_obs.tex
 figures/Fig2/fig2.png
-figures/Fig3/fig3_.png
 For_delta0_the_syste.tex
+figures/Fig3/fig3_.png
 In_the_ordered_phase.tex
 beginalign_H__sum_la.tex
 Our_twoparameter_mod.tex
