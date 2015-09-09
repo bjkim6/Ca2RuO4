@@ -1,7 +1,6 @@
 address1Max_Planck_I.tex
 maketitle_noindent_b.tex
 noindent_SOC_compete.tex
-As_a_model_system.tex
 Figure_1_plots_the.tex
 figures/Fig1/fig1.png
 To_reproduce_the_obs.tex
