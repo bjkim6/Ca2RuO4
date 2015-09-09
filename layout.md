@@ -2,10 +2,10 @@ address1Max_Planck_I.tex
 maketitle_noindent_b.tex
 noindent_SOC_compete.tex
 As_a_model_system.tex
+Figure_1_plots_the.tex
 figures/Fig1/fig1.png
 figures/Fig2/fig2.png
 figures/Fig3/fig3_.png
-Figure_1_plots_the.tex
 To_reproduce_the_obs.tex
 An_alternative_route.tex
 Based_on_the_above.tex
