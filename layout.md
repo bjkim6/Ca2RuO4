@@ -8,7 +8,7 @@ Simulations of spin-wave spectra based on a microscopic model.tex
 figures/Fig3/fig3_.png
 In_the_ordered_phase.tex
 beginalign_H__sum_la.tex
-Our_twoparameter_mod.tex
+Comparison to the data.tex
 figures/Fig4/fig4.png
 Our_model_based_on.tex
 Why_has_strong_SOC.tex
