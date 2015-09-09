@@ -4,7 +4,6 @@ noindent_SOC_compete.tex
 Figure_1_plots_the.tex
 figures/Fig1/fig1.png
 To_reproduce_the_obs.tex
-An_alternative_route.tex
 figures/Fig2/fig2.png
 figures/Fig3/fig3_.png
 Based_on_the_above.tex
