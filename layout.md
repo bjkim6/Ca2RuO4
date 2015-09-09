@@ -1,4 +1,3 @@
-abstract.tex
 address1Max_Planck_I.tex
 maketitle_noindent_b.tex
 noindent_SOC_compete.tex
