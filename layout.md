@@ -1,8 +1,8 @@
 address1Max_Planck_I.tex
 maketitle_noindent_b.tex
 noindent_SOC_compete.tex
-figures/Fig1/fig1.png
 As_a_model_system.tex
+figures/Fig1/fig1.png
 figures/Fig2/fig2.png
 figures/Fig3/fig3_.png
 Figure_1_plots_the.tex
@@ -18,6 +18,5 @@ Our_model_based_on.tex
 Why_has_strong_SOC.tex
 Conceptually_one_may.tex
 Finally_we_remark_th.tex
-.tex
 1.tex
 sectionReferences_be.tex
