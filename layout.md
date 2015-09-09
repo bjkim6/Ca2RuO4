@@ -16,5 +16,4 @@ Our_twoparameter_mod.tex
 figures/Fig4/fig4.png
 Our_model_based_on.tex
 Why_has_strong_SOC.tex
-Finally_we_remark_th.tex
 sectionReferences_be.tex
