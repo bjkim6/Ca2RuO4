@@ -1,4 +1,3 @@
-address1Max_Planck_I.tex
 abstract.tex
 Intro.tex
 Spin-wave spectra reveals XY-type magnetism.tex
