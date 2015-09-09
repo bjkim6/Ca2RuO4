@@ -1,7 +1,7 @@
 address1Max_Planck_I.tex
 maketitle_noindent_b.tex
 noindent_SOC_compete.tex
-Figure_1_plots_the.tex
+Spin-wave spectra reveals XY-type magnetism.tex
 figures/Fig1/fig1.png
 To_reproduce_the_obs.tex
 figures/Fig2/fig2.png
