@@ -11,5 +11,5 @@ beginalign_H__sum_la.tex
 Comparison to the data.tex
 figures/Fig4/fig4.png
 Our_model_based_on.tex
-Why_has_strong_SOC.tex
+Discussions.tex
 sectionReferences_be.tex
