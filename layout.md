@@ -4,7 +4,7 @@ Spin-wave spectra reveals XY-type magnetism.tex
 figures/Fig1/fig1.png
 Theoretical considerations.tex
 figures/Fig2/fig2.png
-Simulations of spin-wave spectra based on a microscopic model.tex
+Simulations.tex
 figures/Fig3/fig3_.png
 In_the_ordered_phase.tex
 beginalign_H__sum_la.tex
