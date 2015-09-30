@@ -1,0 +1,163 @@
+
+\vspace{20 pt}
+\noindent
+{\bf Methods}
+
+\vspace{10 pt}
+\noindent
+{\bf Sample synthesis \& characterization}
+
+\noindent
+%
+Single crystals of \CRO were grown by the floating zone method with RuO$_{2}$
+self-flux~\cite{Nakatsuji97,Cao97}. The crystals had lattice parameter
+$a$=5.415~\r{A}, $b$=5.512~\r{A}, and $c$=11.944~\r{A}, as determined by x-ray
+powder diffraction, in good agreement with the parameters reported in
+literature\cite{} for the ``S'' phase with short $c$-axis lattice parameter.
+The magnetic ordering temperature T=110~K was determined using magnetization
+measurements in a Quantum Design SQUID-VSM device.
+
+\vspace{10 pt}
+\noindent
+{\bf Inelastic neutron scattering}
+
+\noindent
+%
+For the INS measurements, we co-aligned about 100 pieces of single crystals
+with a total mass of $\sim$1.5~g into a mosaic on Al plates. The in-plane and
+$c$-axis mosaicity of the aligned aligned crystal assembly were
+$\lesssim$3.2$^\circ$ and  $\lesssim$2.7$^\circ$, respectively. The INS
+measurements were performed on the ARCS time-of-flight chopper spectrometer at
+the Spallation Neutron Source, Oak Ridge National Laboratory, Tennessee, USA.
+The incident neutron energy was 100~meV. The Fermi chopper and  $T_{0}$ chopper
+frequencies were set to 600 and 90 Hz, respectively, to optimize the neutron
+flux and energy-resolution. The measurements were carried out at 5 K. The
+sample was mounted with $(HOL)$ plane horizontal. The crystal was rotated over
+90$^\circ$  about the vertical $\mathbf{c}$-axis with a step size of 1$^\circ$.
+At each step data were recorded over a deposited proton charge of $8.33
+e^{11}$nAh ($3 e^{12}$p$C$ proton charge, $\sim 36$~minutes)
+and then converted into 4D $S(Q,\omega)$ using the Horace software\cite{horace}
+and normalized with a recent Vanadium calibration.
+
+\vspace{10 pt}
+\noindent
+{\bf Polarized inelastic neutron scattering}
+
+\noindent
+%
+For the polarized triple axis measurement we remounted the crystals from the
+time-of-flight experiment on Si plates and augmented it with further crystals
+to obtain a total sample mass of $\sim$3~g.
+%
+The mosaicity of this sample was $\lesssim$3.2$^\circ$ and 
+$\lesssim$2.6$^\circ$ for in-plane and $c$-sxis, respectively.
+%
+The experiment was performed on the IN20 three-axis-spectrometer installed on
+the H13 thermal beam tube at the Institut Laue-Langevin, Grenoble, France. For
+the $xyz$~polarization analysis, we used a Heusler (111) monochromator as well
+as a Heusler (111) analysator in combination with the Helmholtz coil at the
+sample position.
+%
+Throughout the experiment we used a fixed $k_F$=X\r{A}$^{-1}$ and performed
+polarization analysis along energy and H scans at ($\pi$,$\pi$) and (0,0),
+keeping L as small as possible without violating the kinematic restrictions.
+
+
+
+\vspace{10 pt}
+\noindent
+{\bf Theory}
+
+\noindent
+%
+With the Helmholtz coil at the sample position, the neutron spin can be
+oriented in arbitrary positions. It is useful to describe the scattering
+process in a reference frame, such that $x\parallel q$, $y\perp q$ is in the
+scattering plane and $z$ is vertical.
+%
+In the polarization analysis different scattering channels with the spin
+pointing along $x$, $y$, and $z$ are investigated. Depending if the spin was flipped
+during the scattering process, these are further separated
+into spin-flip and non-spin-flip channels.
+
+\noindent
+The magnetic double differential cross section for each channel is given by
+\cite{schaerpf}
+%
+\begin{equation}
+  \left(\frac{\partial^2\sigma}{\partial \Omega \partial E'}\right)_{ss'}^{i}
+  = \left( \frac{m_n}{2\pi\hbar^2}\right)^2 \frac{k'}{k} (\gamma \mu_n)^2
+    \Gamma_{ss'}^{i}(\vec{r},\omega)
+\end{equation}
+%
+Here, $s$ and $s'$
+denote if the spin was flipped during the scattering process. The initial and
+final moment of the neutron is given by $k$ and $k'$, respectively, and $\gamma
+\mu_n$ is the product of the gyromagnetic moment of the neutron with its
+magnetic moment. The symbol $\Gamma_{ss'}^{i}(\vec{r},\omega)$ stands for all
+matrix elements $M_{ii}(\vec{r},\omega)$, that contribute for the respective
+channel. We here reproduce an incomplete listing of these functions, that
+captures all the effects needed to describe our experiment. For a more complete
+overview see \cite{schaerpf}
+%
+\begin{equation}
+  \begin{pmatrix}
+    \Gamma_{sf}^x (\vec{r},\omega)\\
+    \Gamma_{sf}^y (\vec{r},\omega)\\
+    \Gamma_{sf}^ z (\vec{r},\omega)
+  \end{pmatrix}
+  =
+  \begin{pmatrix}
+    0 & 1 & 1 \\
+    0 & 0 & 1 \\ 
+    0 & 1 & 0 
+  \end{pmatrix}
+  \begin{pmatrix}
+    M_{xx}(\vec{r},\omega) \\
+    M_{yy}(\vec{r},\omega) \\
+    M_{zz}(\vec{r},\omega)
+  \end{pmatrix}
+\end{equation}
+%
+Combining these equations, the scattering to the pure magnetic moments in $y$
+and $z$ direction can be calculated while at the same time the background
+signal is completely eliminated:
+%
+\begin{equation}
+  \begin{pmatrix} 
+    M_{\perp}(\vec{r},\omega) \\
+    M_{yy}(\vec{r},\omega) \\ 
+    M_{zz}(\vec{r},\omega) 
+  \end{pmatrix} 
+  =
+  \begin{pmatrix} 
+    2 & -1 & -1 \\ 
+    1 & 0 & -1 \\ 
+    1 & -1 & 0 
+  \end{pmatrix}
+  \begin{pmatrix} 
+    \Gamma_{sf}^x (\vec{r},\omega)  \\
+    \Gamma_{sf}^y(\vec{r},\omega) \\
+    \Gamma_{sf}^z (\vec{r},\omega)
+  \end{pmatrix}
+\end{equation}
+%
+A further transformation is needed to
+transform these quantities into the frame of the sample cyrstal. In case of an
+(H0L) scattering geometry, the following holds true:
+%
+\begin{equation} 
+  \begin{pmatrix} M_{\perp} \\ 
+    M_{yy} \\ 
+    M_{zz}
+  \end{pmatrix}_{(H0L)} 
+  = 
+  \begin{pmatrix} 
+    \sin(\alpha)  & 1 & \cos(\alpha) \\
+    \sin(\alpha)  & 0 & \cos(\alpha) \\ 
+    0 & 1 & 0 
+  \end{pmatrix} 
+  \begin{pmatrix}
+    M_a \\ M_b \\ M_c 
+  \end{pmatrix} 
+\end{equation}
